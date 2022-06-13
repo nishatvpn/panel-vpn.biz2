@@ -2,9 +2,9 @@
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
 HOST='174.138.183.243';
-USER='abolirez_powernit';
-PASS='@@@@F1r3n3t';
-DBNAME='abolirez_powernit';
+USER='abolirez_yooy';
+PASS='abolirez_yooy';
+DBNAME='abolirez_yooy';
 
 install_require()
 {
