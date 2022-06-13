@@ -3,9 +3,9 @@ cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
 db_host='174.138.183.243';
-db_user='abolirez_powernit';
-db_pass='@@@@F1r3n3t';
-db_name='abolirez_powernit';
+db_user='abolirez_yooy';
+db_pass='abolirez_yooy';
+db_name='abolirez_yooy';
 
 install_require()
 {
